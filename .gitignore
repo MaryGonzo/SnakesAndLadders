@@ -1,0 +1,17 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/TestGame/obj
+/TestGame/bin/Debug/net6.0
+/SnakesAndLadders.Front.PlayGame/obj
+/SnakesAndLadders.Front.PlayGame/bin/Debug/net6.0
+/SnakesAndLadders.Back.Infraestructura/obj
+/SnakesAndLadders.Back.Infraestructura/bin/Debug/net6.0
+/SnakesAndLadders.Back.Contracts/obj
+/SnakesAndLadders.Back.Contracts/bin/Debug/net6.0
+/SnakesAndLadders.Back/obj
+/SnakesAndLadders.Back/bin/Debug/net6.0
+/.vs
+/SnakesAndLadders.Back.Domain/obj
+/SnakesAndLadders.Back.Domain/bin/Debug/net6.0
